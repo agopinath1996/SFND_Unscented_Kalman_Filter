@@ -1,4 +1,5 @@
 # SFND_Unscented_Kalman_Filter
+<<<<<<< HEAD
 Sensor Fusion UKF Highway Project Starter Code
 
 <img src="media/ukf_highway_tracked.gif" width="700" height="400" />
@@ -74,3 +75,6 @@ and performing clustering. This is similar to what was done in Sensor Fusion Lid
 This information is only accessible by people who are already enrolled in Sensor Fusion. 
 If you are enrolled, see the project page in the classroom
 for instructions and the project rubric.
+=======
+UKF for LIdar Radar Fusion
+>>>>>>> 0d2464a5e3a2cb94da821a27cc6aae1ff3adf1b0
